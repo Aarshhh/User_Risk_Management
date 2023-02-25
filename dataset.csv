@@ -1,0 +1,312 @@
+PersonID,InitialInvestment,InvestmentType,InvestmentAmount,Current Value,ProfitLossPercenatge,Age,Gender,IncomeLevel,EducationLevel,RiskTolerance
+1,10000,Stocks,15000,18000,20%,35,M,High,Graduate,High
+2,5000,Mutual Funds,6000,5500,-8.30%,28,F,Medium,Undergraduate,Low
+3,25000,Bonds,30000,28500,-5%,45,M,High,Postgraduate,Medium
+4,15000,Real Estate,20000,18000,-25%,50,F,High,Graduate,High
+5,200000,ETF,225000,250000,11.10%,55,M,Very high,Postgraduate,High
+6,10000,Stocks,12000,11000,-8.30%,30,M,Medium,Undergraduate,Medium
+7,30000,Mutual Funds,35000,38000,8.60%,42,F,High,Postgraduate,High
+8,5000,Bonds,5500,5250,-4.50%,25,M,Low,Graduate,Low
+9,20000,Real Estate,25000,22000,-12%,60,F,Very high,Postgraduate,High
+10,5000,ETF,6000,5500,10%,32,M,Medium,Undergraduate,High
+11,100000,Stocks,120000,125000,4.20%,45,M,Very high,Postgraduate,High
+12,8000,Mutual Funds,9000,8200,-8.90%,38,F,High,Undergraduate,Medium
+13,15000,Bonds,18000,17250,-3.30%,27,M,Medium,Graduate,Medium
+14,100000,Real Estate,110000,105000,-4.50%,50,M,High,Postgraduate,High
+15,50000,ETF,55000,60000,9.10%,35,F,Very high,Graduate,High
+16,5000,Stocks,7000,8000,14.30%,28,M,Low,Undergraduate,Low
+17,20000,Mutual Funds,25000,24000,-4%,40,F,High,Postgraduate,Medium
+18,1000,Bonds,1200,1100,-8.30%,22,M,Low,Undergraduate,Low
+19,15000,Real Estate,18000,20000,11.10%,55,F,Very high,Postgraduate,High
+20,2000,Real Estate,15000,17000,7.80%,34,F,High,Postgraduate,High
+21,5000,ETF,6000,5500,-8.30%,29,F,Medium,Undergraduate,Low
+22,25000,Stocks,30000,32000,6.70%,40,M,High,Postgraduate,High
+23,10000,Mutual Funds,12000,11000,-8.30%,35,F,Medium,Undergraduate,Medium
+24,5000,Bonds,5500,5000,-9.10%,27,M,Low,Graduate,Low
+25,20000,Real Estate,25000,23000,-8%,50,M,Very high,Postgraduate,High
+26,50000,ETF,55000,60000,9.10%,35,M,Very high,Postgraduate,High
+27,5000,Stocks,7000,8000,14.30%,30,M,Low,Undergraduate,Low
+28,25000,Mutual Funds,30000,28500,-5%,45,F,High,Postgraduate,Medium
+29,10000,Bonds,12000,11000,-8.30%,35,M,Medium,Undergraduate,Medium
+30,15000,Real Estate,20000,18000,-25%,50,F,High,Graduate,High
+31,100000,ETF,120000,130000,8.30%,45,M,Very high,Postgraduate,High
+32,8000,Stocks,9600,11000,14.60%,38,F,High,Undergraduate,High
+33,15000,Mutual Funds,18000,17250,-3.30%,27,M,Medium,Graduate,Medium
+34,100000,Bonds,120000,115000,-4.20%,50,M,High,Postgraduate,High
+35,50000,Real Estate,60000,55000,-8.30%,35,F,Very high,Graduate,High
+36,10000,ETF,12000,13200,10%,32,M,Medium,Undergraduate,High
+37,5000,Stocks,6000,5500,-8.30%,29,F,Medium,Undergraduate,Medium
+38,25000,Mutual Funds,30000,31500,5%,40,M,High,Postgraduate,High
+39,10000,Bonds,12000,13000,8.30%,35,F,Medium,Undergraduate,High
+40,15000,ETF,18000,17500,-7.40%,27,M,Medium,Undergraduate,Low
+41,8000,Stocks,9600,8800,-8.30%,35,F,Medium,Postgraduate,Medium
+42,10000,Mutual Funds,12000,13000,8.30%,50,M,High,Undergraduate,High
+43,5000,Bonds,5500,6000,9.10%,29,F,Low,Postgraduate,High
+44,20000,Real Estate,25000,22000,-12%,40,M,Very high,Graduate,High
+45,50000,ETF,60000,55000,-8.30%,35,M,Very high,Postgraduate,Medium
+46,5000,Stocks,7000,6000,-14.30%,30,M,Low,Undergraduate,Low
+47,25000,Mutual Funds,30000,31500,5%,45,F,High,Postgraduate,High
+48,10000,Bonds,12000,13000,8.30%,35,M,Medium,Undergraduate,Medium
+49,15000,Real Estate,20000,19500,-2.50%,50,F,High,Graduate,High
+50,100000,ETF,120000,125000,4.20%,45,M,Very high,Postgraduate,High
+51,8000,Stocks,9600,11000,14.60%,38,F,High,Undergraduate,Medium
+52,15000,Mutual Funds,18000,16200,-10%,27,M,Medium,Graduate,High
+53,100000,Bonds,120000,130000,8.30%,50,M,High,Postgraduate,High
+54,50000,Real Estate,60000,57000,-5%,35,F,Very high,Graduate,High
+55,10000,ETF,12000,12600,5%,32,M,Medium,Undergraduate,Medium
+56,5000,Stocks,6000,5500,-8.30%,29,F,Medium,Undergraduate,Low
+57,25000,Mutual Funds,30000,34500,15%,40,M,High,Postgraduate,High
+58,10000,Bonds,12000,11000,-8.30%,35,F,Medium,Undergraduate,Low
+59,5000,Real Estate,6000,6300,5%,30,F,Medium,Undergraduate,Medium
+60,100000,ETF,120000,115000,-4.20%,50,M,High,Postgraduate,High
+61,8000,Stocks,9600,9000,-6.30%,35,M,Medium,Undergraduate,Medium
+62,15000,Mutual Funds,18000,19800,10%,40,F,High,Postgraduate,High
+63,100000,Bonds,120000,114000,-5%,45,M,Very high,Graduate,High
+64,50000,Real Estate,60000,63000,5%,32,F,High,Postgraduate,Medium
+65,10000,ETF,12000,11000,-8.30%,27,M,Low,Undergraduate,Low
+66,5000,Stocks,6000,6600,10%,35,F,Low,Undergraduate,Medium
+67,25000,Mutual Funds,30000,31500,5%,50,M,Medium,Postgraduate,Medium
+68,10000,Bonds,12000,12500,4.20%,38,M,Medium,Graduate,High
+69,15000,Real Estate,20000,21000,5%,29,F,Medium,Undergraduate,Medium
+70,100000,ETF,120000,132000,10%,40,M,High,Postgraduate,High
+71,8000,Stocks,9600,9000,-6.30%,35,F,Medium,Undergraduate,Medium
+72,15000,Mutual Funds,18000,20250,12.50%,50,M,High,Postgraduate,High
+73,100000,Bonds,120000,123000,2.50%,35,M,Very high,Graduate,High
+74,50000,Real Estate,60000,57000,-5%,32,F,Very high,Postgraduate,High
+75,10000,ETF,12000,12600,5%,27,M,Medium,Undergraduate,Medium
+76,5000,Stocks,6000,5400,-10%,29,F,Medium,Undergraduate,Low
+77,25000,Mutual Funds,30000,27000,-10%,40,M,High,Postgraduate,High
+78,10000,Bonds,12000,12400,3.30%,38,F,Low,Undergraduate,Low
+79,15000,Real Estate,20000,19000,-5%,45,M,Medium,Postgraduate,Medium
+80,100000,ETF,120000,138000,15%,32,F,High,Postgraduate,High
+81,8000,Stocks,9600,10400,8.30%,27,M,Low,Undergraduate,Low
+82,15000,Mutual Funds,18000,19440,8%,40,F,Medium,Postgraduate,Medium
+83,100000,Bonds,120000,120000,0%,50,M,Very high,Graduate,High
+84,50000,Real Estate,60000,57000,-5%,35,F,High,Postgraduate,High
+85,10000,ETF,12000,11880,-1%,29,M,Medium,Undergraduate,Medium
+86,5000,Stocks,6000,6900,15%,38,F,Medium,Undergraduate,Medium
+87,25000,Mutual Funds,30000,30600,2%,32,M,Low,Postgraduate,Low
+88,10000,Bonds,12000,12300,2.50%,50,M,High,Graduate,High
+89,15000,Real Estate,20000,21000,5%,27,F,Medium,Undergraduate,Medium
+90,100000,ETF,120000,120000,0%,35,M,Very high,Graduate,High
+91,8000,Stocks,9600,9000,-6.30%,40,F,Low,Undergraduate,Medium
+92,15000,Mutual Funds,18000,18720,4%,29,M,Medium,Undergraduate,Medium
+93,100000,Bonds,120000,114000,-5%,32,F,High,Postgraduate,High
+94,50000,Real Estate,60000,63000,5%,38,F,Very high,Postgraduate,High
+95,10000,ETF,12000,11400,-5%,50,M,Medium,Graduate,High
+96,5000,Stocks,6000,5100,-15%,35,F,Medium,Undergraduate,Low
+97,25000,Mutual Funds,30000,29400,-2%,40,M,Low,Undergraduate,Low
+98,10000,Bonds,12000,12600,5%,27,F,Low,Undergraduate,Low
+99,15000,Real Estate,20000,18500,-7.50%,50,M,Medium,Postgraduate,High
+100,100000,ETF,120000,132000,10%,38,F,Very high,Graduate,High
+101,8000,Stocks,9600,10560,10%,45,M,Low,Postgraduate,Low
+102,15000,Mutual Funds,18000,17640,-2%,32,F,High,Graduate,Medium
+103,100000,Bonds,120000,126000,5%,35,M,Very high,Postgraduate,High
+104,50000,Real Estate,60000,57000,-5%,29,F,Medium,Undergraduate,Medium
+105,10000,ETF,12000,11400,-5%,40,M,Low,Undergraduate,Medium
+106,5000,Stocks,6000,5400,-10%,50,M,High,Postgraduate,High
+107,25000,Mutual Funds,30000,32100,7%,27,F,Medium,Graduate,Low
+108,10000,Bonds,12000,11400,-5%,38,M,Low,Undergraduate,Medium
+109,15000,Real Estate,20000,23000,15%,45,F,Very high,Postgraduate,High
+110,100000,ETF,120000,126000,5%,32,M,High,Graduate,High
+111,8000,Stocks,9600,10560,10%,50,M,Low,Postgraduate,Low
+112,15000,Mutual Funds,18000,18360,2%,35,F,Medium,Undergraduate,Medium
+113,100000,Bonds,120000,132000,10%,29,F,Very high,Postgraduate,High
+114,50000,Real Estate,60000,57000,-5%,40,M,Medium,Undergraduate,Medium
+115,10000,ETF,12000,12600,5%,27,F,Low,Undergraduate,Low
+116,15000,Mutual Funds,18000,16920,-6%,38,F,Medium,Graduate,Low
+117,100000,Bonds,120000,126000,5%,29,M,Very high,Postgraduate,High
+118,50000,Real Estate,60000,57000,-5%,40,F,Medium,Undergraduate,Medium
+119,10000,ETF,12000,12600,5%,27,M,Low,Undergraduate,Low
+120,5000,Stocks,6000,6600,10%,50,F,Low,Postgraduate,Low
+121,25000,Mutual Funds,30000,33000,10%,35,M,High,Graduate,Medium
+122,10000,Bonds,12000,12600,5%,40,F,Low,Undergraduate,Low
+123,15000,Real Estate,20000,19000,-5%,29,M,Medium,Postgraduate,High
+124,100000,ETF,120000,114000,-5%,38,F,Very high,Postgraduate,High
+125,8000,Stocks,9600,8640,-10%,45,M,Low,Postgraduate,Low
+126,15000,Mutual Funds,18000,18900,5%,27,F,Medium,Undergraduate,Medium
+127,100000,Bonds,120000,138000,15%,50,M,Very high,Graduate,High
+128,50000,Real Estate,60000,63000,5%,32,F,Medium,Postgraduate,High
+129,10000,ETF,12000,10800,-10%,29,M,Low,Undergraduate,Medium
+130,5000,Stocks,6000,5100,-15%,40,F,High,Postgraduate,High
+131,25000,Mutual Funds,30000,30300,1%,27,M,Medium,Graduate,Low
+132,10000,Bonds,12000,11400,-5%,38,F,Low,Undergraduate,Medium
+133,15000,Real Estate,20000,21500,7.50%,45,M,Very high,Postgraduate,High
+134,100000,ETF,120000,138000,15%,32,F,High,Graduate,High
+135,8000,Stocks,9600,8256,-14%,50,M,Low,Postgraduate,Low
+136,15000,Mutual Funds,18000,17640,-2%,38,F,Medium,Graduate,Medium
+137,100000,Bonds,120000,132000,10%,29,M,Very high,Postgraduate,High
+138,50000,Real Estate,60000,57000,-5%,40,F,Medium,Undergraduate,Medium
+139,10000,ETF,12000,10200,-15%,27,M,Low,Undergraduate,Low
+140,5000,Stocks,6000,5400,-10%,50,F,Low,Postgraduate,Low
+141,25000,Mutual Funds,30000,32400,8%,35,M,High,Graduate,High
+142,10000,Bonds,12000,13200,10%,40,F,Low,Undergraduate,Low
+143,15000,Real Estate,20000,19000,-5%,29,M,Medium,Postgraduate,High
+144,100000,ETF,120000,114000,-5%,38,F,Very high,Postgraduate,High
+145,8000,Stocks,9600,8640,-10%,45,M,Low,Postgraduate,Low
+146,15000,Mutual Funds,18000,18450,3%,27,F,Medium,Undergraduate,Medium
+147,100000,Bonds,120000,132000,10%,50,M,Very high,Graduate,High
+148,50000,Real Estate,60000,66000,10%,32,F,Medium,Postgraduate,High
+149,10000,ETF,12000,12600,5%,29,M,Low,Undergraduate,Low
+150,5000,Stocks,6000,6300,5%,40,F,High,Postgraduate,High
+151,25000,Mutual Funds,30000,31500,5%,27,M,Medium,Graduate,Medium
+152,10000,Bonds,12000,13200,10%,38,F,Low,Undergraduate,Low
+153,15000,Real Estate,20000,23000,15%,45,M,Very high,Postgraduate,High
+154,100000,ETF,120000,123000,2.50%,32,F,High,Graduate,Medium
+155,8000,Stocks,9600,9984,4%,50,M,Low,Postgraduate,Low
+156,15000,Mutual Funds,18000,17460,-3%,29,F,Medium,Undergraduate,Medium
+157,100000,Bonds,120000,114000,-5%,40,M,Very high,Postgraduate,High
+158,50000,Real Estate,60000,63000,5%,32,F,Medium,Graduate,High
+159,10000,ETF,12000,12000,0%,45,M,Low,Undergraduate,Low
+160,5000,Stocks,6000,6600,10%,27,F,High,Postgraduate,High
+161,25000,Mutual Funds,30000,29100,-3%,50,M,Medium,Graduate,Medium
+162,10000,Bonds,12000,13200,10%,29,F,Low,Undergraduate,Low
+163,15000,Real Estate,20000,17600,-12%,38,M,Medium,Postgraduate,High
+164,100000,ETF,120000,120000,0%,27,F,High,Graduate,High
+165,8000,Stocks,9600,9216,-4%,40,M,Low,Postgraduate,Low
+166,15000,Mutual Funds,18000,18450,3%,32,F,High,Graduate,Medium
+167,100000,Bonds,120000,138000,15%,45,M,Very high,Postgraduate,High
+168,50000,Real Estate,60000,54000,-10%,29,F,Medium,Undergraduate,Medium
+169,10000,ETF,12000,12600,5%,50,M,Low,Graduate,Low
+170,5000,Stocks,6000,5400,-10%,38,F,High,Postgraduate,High
+171,25000,Mutual Funds,30000,31500,5%,27,M,Medium,Undergraduate,Medium
+172,10000,Bonds,12000,10800,-10%,40,F,Low,Postgraduate,Low
+173,15000,Real Estate,20000,21000,5%,50,M,High,Graduate,High
+174,100000,ETF,120000,120000,0%,32,F,Very high,Postgraduate,High
+175,8000,Stocks,9600,8640,-10%,29,M,Low,Undergraduate,Low
+176,500000,Stocks,25000,27000,8,35,Male,High,Graduate,High
+177,300000,Bonds,15000,14000,-7,50,Female,Medium,Postgraduate,Low
+178,400000,Stocks,20000,22000,10,40,Male,High,Postgraduate,Medium
+179,100000,Real Estate,500000,520000,4,28,Female,Low,Undergraduate,High
+180,200000,Bonds,25000,26000,4,60,Male,High,Graduate,Low
+181,150000,Stocks,10000,9000,-10,45,Female,Medium,Graduate,High
+182,800000,Mutual Funds,50000,55000,10,35,Male,High,Postgraduate,Medium
+183,50000,Stocks,5000,4500,-10,25,Female,Low,Undergraduate,Low
+184,700000,Bonds,40000,36000,-10,55,Male,High,Graduate,Medium
+185,400000,Real Estate,600000,580000,-3,30,Female,Medium,Undergraduate,High
+186,200000,Stocks,15000,13000,-13,40,Male,Medium,Postgraduate,High
+187,60000,Mutual Funds,5000,5500,10,28,Female,Low,Undergraduate,Medium
+188,300000,Bonds,20000,19000,-5,50,Male,High,Graduate,Low
+189,100000,Stocks,5000,6000,20,35,Female,Low,Graduate,Medium
+190,250000,Real Estate,350000,340000,-3,60,Male,High,Graduate,High
+191,50000,Stocks,5000,4000,-20,28,Male,Low,Undergraduate,Low
+192,150000,Real Estate,200000,210000,5,45,Female,Medium,Graduate,High
+193,600000,Bonds,30000,28000,-7,55,Male,High,Postgraduate,Low
+194,200000,Stocks,10000,12000,20,30,Female,Low,Graduate,Medium
+195,40000,Mutual Funds,5000,5500,10,35,Male,Low,Undergraduate,Medium
+196,500000,Bonds,25000,22000,-12,50,Female,High,Undergraduate,Low
+197,200000,Stocks,15000,16000,8,40,Male,Medium,Postgraduate,High
+198,100000,Real Estate,150000,145000,-3,28,Female,Low,Postgraduate,High
+199,100000,Stocks,5000,4500,-10,60,Male,High,Graduate,Medium
+200,30000,Mutual Funds,2000,2500,25,25,Female,Low,Undergraduate,Low
+201,350000,Bonds,20000,18000,-10,45,Male,High,Postgraduate,High
+202,500000,Stocks,30000,33000,10,35,Female,High,Graduate,Medium
+203,150000,Real Estate,250000,235000,-6,50,Male,Medium,Graduate,High
+204,80000,Mutual Funds,5000,6000,20,30,Female,Low,Graduate,Medium
+205,200000,Bonds,15000,13000,-13,28,Male,Low,Undergraduate,High
+206,400000,Real Estate,500000,480000,-4,45,Female,High,Postgraduate,Low
+207,120000,Stocks,10000,8000,-20,28,Male,Low,Undergraduate,Low
+208,150000,Real Estate,200000,190000,-5,55,Female,Medium,Graduate,High
+209,700000,Bonds,35000,32000,-8,50,Male,High,Postgraduate,Low
+210,250000,Stocks,15000,18000,20,30,Female,Low,Undergraduate,Medium
+211,45000,Mutual Funds,5000,5500,10,35,Male,Low,Undergraduate,Medium
+212,100000,Real Estate,120000,110000,-8,40,Female,Medium,Graduate,Low
+213,80000,Stocks,10000,12000,20,32,Male,Low,Undergraduate,Medium
+214,600000,Bonds,30000,35000,16.7,45,Female,High,Postgraduate,High
+215,450000,Real Estate,600000,570000,-5,50,Male,High,Postgraduate,Medium
+216,200000,Stocks,25000,28000,12,28,Female,Low,Graduate,High
+217,80000,Mutual Funds,10000,8000,-20,35,Male,Low,Undergraduate,Low
+218,120000,Real Estate,150000,145000,-3.3,48,Female,Medium,Postgraduate,Medium
+219,400000,Bonds,20000,22000,10,30,Male,High,Graduate,Low
+220,300000,Stocks,20000,18000,-10,35,Female,Medium,Undergraduate,High
+221,80000,Real Estate,100000,90000,-10,28,Male,Low,Undergraduate,Low
+222,150000,Stocks,20000,24000,20,32,Female,Low,Graduate,High
+223,25000,Mutual Funds,5000,5500,10,35,Male,Low,Undergraduate,Medium
+224,180000,Real Estate,200000,192000,-4,40,Female,Medium,Postgraduate,Low
+225,40000,Stocks,5000,4500,-10,28,Male,Low,Undergraduate,Low
+226,90000,Bonds,4500,5000,11.1,30,Female,Low,Graduate,Low
+227,120000,Real Estate,150000,144000,-4,45,Male,Medium,Postgraduate,Low
+228,400000,Stocks,30000,27000,-10,35,Female,High,Graduate,High
+229,70000,Mutual Funds,10000,12000,20,32,Male,Low,Undergraduate,Medium
+230,30000,Real Estate,40000,38000,-5,28,Female,Low,Graduate,Low
+231,150000,Bonds,7500,8250,10,35,Male,Low,Undergraduate,Low
+232,200000,Stocks,10000,12000,20,45,Female,Medium,Postgraduate,High
+233,45000,Mutual Funds,5000,5500,10,35,Male,Low,Undergraduate,Medium
+234,300000,Real Estate,400000,380000,-5,50,Female,High,Postgraduate,Medium
+235,250000,Stocks,15000,18000,20,30,Male,Low,Undergraduate,Medium
+236,120000,Real Estate,150000,144000,-4,32,Female,Low,Undergraduate,Low
+237,200000,Stocks,25000,22500,-10,45,Male,Medium,Postgraduate,Low
+238,80000,Bonds,4000,3600,-10,30,Female,Low,Graduate,High
+239,300000,Real Estate,400000,380000,-5,55,Male,High,Postgraduate,Medium
+240,15000,Mutual Funds,2500,2750,10,25,Female,Low,Undergraduate,Low
+241,60000,Stocks,5000,4000,-20,28,Male,Low,Undergraduate,Low
+242,250000,Real Estate,300000,288000,-4,40,Female,Medium,Postgraduate,Low
+243,500000,Stocks,50000,55000,10,35,Male,High,Graduate,Medium
+244,12000,Bonds,6000,6300,5,30,Female,Low,Undergraduate,Low
+245,180000,Real Estate,200000,192000,-4,45,Male,Medium,Postgraduate,Low
+246,45000,Stocks,5000,6000,20,28,Female,Low,Undergraduate,Medium
+247,300000,Mutual Funds,40000,44000,10,35,Male,Low,Graduate,High
+248,25000,Real Estate,30000,28500,-5,30,Female,Low,Undergraduate,Low
+249,80000,Bonds,4000,3600,-10,40,Male,Medium,Postgraduate,Low
+250,50000,Stocks,10000,8000,-20,25,Female,Low,Undergraduate,Low
+251,20000,Stocks,2500,3000,20,32,Male,Low,Undergraduate,Medium
+252,180000,Mutual Funds,24000,26400,10,45,Female,Medium,Postgraduate,High
+253,300000,Real Estate,400000,380000,-5,50,Male,High,Graduate,Medium
+254,50000,Stocks,10000,9000,-10,30,Female,Low,Undergraduate,Low
+255,150000,Real Estate,200000,192000,-4,40,Male,Medium,Postgraduate,Low
+256,45000,Bonds,2250,2025,-10,28,Female,Low,Undergraduate,Low
+257,80000,Mutual Funds,10000,11000,10,35,Male,Low,Graduate,Medium
+258,250000,Real Estate,300000,288000,-4,45,Female,Medium,Postgraduate,Low
+259,12000,Bonds,6000,6300,5,30,Male,Low,Undergraduate,Low
+260,180000,Stocks,15000,12000,-20,28,Female,Low,Undergraduate,Low
+261,25000,Real Estate,30000,28500,-5,30,Male,Low,Undergraduate,Low
+262,80000,Bonds,4000,3600,-10,40,Female,Medium,Postgraduate,Low
+263,50000,Stocks,10000,11000,10,35,Male,Low,Graduate,Medium
+264,150000,Real Estate,200000,192000,-4,45,Female,Medium,Postgraduate,Low
+265,45000,Bonds,2250,2475,10,28,Male,Low,Undergraduate,Medium
+266,90000,Stocks,4000,3960,-1.00%,54,Female,Low,Postgraduate,High
+267,140000,Real Estate,70000,73500,5.00%,31,Male,High,Graduate,Medium
+268,58000,Stocks,3000,2640,-12.00%,43,Female,Medium,Undergraduate,High
+269,65000,Mutual Funds,5000,5300,6.00%,49,Male,High,Graduate,Low
+270,23000,Real Estate,10000,9200,-8.00%,26,Female,Low,Undergraduate,High
+271,120000,Mutual Funds,10000,10500,4.00%,38,Male,Medium,Graduate,Medium
+272,80000,Stocks,6000,6600,8.00%,47,Female,Medium,Undergraduate,High
+273,35000,Real Estate,20000,21800,6.00%,42,Male,Low,Postgraduate,Low
+274,21000,Mutual Funds,5000,4600,-12.00%,29,Female,Low,Graduate,High
+275,96000,Stocks,7000,5600,-22.00%,33,Male,High,Postgraduate,High
+276,42000,Real Estate,30000,31500,5.00%,44,Female,Medium,Graduate,Medium
+277,53000,Mutual Funds,4000,4400,10.00%,51,Male,Medium,Postgraduate,Low
+278,70000,Stocks,5000,4250,-15.00%,28,Female,Low,Undergraduate,High
+279,550000,Real Estate,400000,450000,-18.18,45,Female,High,Graduate,High
+280,420000,Stocks,45000,38000,-9.52,33,Male,Medium,Undergraduate,Medium
+281,360000,Bonds,20000,22000,10,29,Male,Low,Undergraduate,Low
+282,510000,Mutual Funds,70000,71000,1.43,38,Male,High,Graduate,Medium
+283,620000,Real Estate,700000,680000,-8.06,42,Female,High,Postgraduate,High
+284,460000,Stocks,15000,19000,26.67,25,Female,Low,Undergraduate,High
+285,230000,Bonds,10000,11000,10,27,Male,Low,Graduate,Medium
+286,740000,Mutual Funds,95000,105000,10.53,51,Male,High,Postgraduate,High
+287,670000,Real Estate,600000,560000,-16.67,47,Female,High,Graduate,Medium
+288,290000,Stocks,20000,16000,-20,31,Male,Medium,Undergraduate,Low
+289,540000,Bonds,30000,32000,6.67,35,Female,High,Graduate,High
+290,750000,Mutual Funds,98000,101000,3.06,49,Male,High,Postgraduate,High
+291,660000,Real Estate,620000,610000,-1.61,50,Male,High,Graduate,Medium
+292,400000,Stocks,55000,50000,-9.09,29,Female,Medium,Postgraduate,High
+293,220000,Bonds,15000,14000,-6.67,24,Male,Low,Undergraduate,Low
+294,500000,Mutual Funds,65000,63000,-3.08,41,Female,Medium,Postgraduate,Medium
+295,840000,Real Estate,800000,780000,-7.14,53,Male,High,Postgraduate,High
+296,620000,Stocks,80000,84000,5,43,Female,High,Graduate,Medium
+297,420000,Bonds,25000,28000,12,28,Male,Low,Graduate,Low
+298,150000,Real Estate,200000,215000,7.50%,47,Female,High,Postgraduate,High
+299,50000,Stocks,75000,72000,-4.00%,29,Male,Low,Undergraduate,Low
+300,250000,Real Estate,300000,315000,5.00%,56,Male,High,Graduate,Medium
+301,100000,Mutual Funds,120000,130000,8.30%,42,Female,Medium,Undergraduate,Low
+302,50000,Stocks,60000,52000,-13.30%,33,Male,Medium,Postgraduate,High
+303,100000,Bonds,120000,118000,-1.70%,45,Female,Medium,Postgraduate,Medium
+304,200000,Real Estate,250000,265000,6.00%,51,Male,High,Graduate,High
+305,50000,Mutual Funds,70000,65000,-7.10%,27,Female,Low,Undergraduate,Low
+306,150000,Stocks,180000,200000,11.10%,39,Male,Medium,Postgraduate,High
+307,100000,Real Estate,120000,135000,12.50%,48,Female,High,Graduate,Medium
+308,50000,Mutual Funds,60000,62000,3.30%,31,Male,Low,Postgraduate,Medium
+309,200000,Stocks,240000,270000,12.50%,43,Female,High,Graduate,High
+310,100000,Bonds,110000,112000,1.80%,52,Male,High,Postgraduate,Low
+311,50000,Real Estate,60000,55000,-8.30%,25,Female,Low,Undergraduate,Low
